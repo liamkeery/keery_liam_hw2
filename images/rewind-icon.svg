@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #5e5e5e;
+      }
+    </style>
+  </defs>
+  <title>rewind-icon</title>
+  <g id="circle_1">
+    <g id="outer_circle_1">
+      <circle id="ellipse_1" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="rewind_icon">
+    <g id="triangles">
+      <polygon id="tri_2" class="cls-2" points="399.83 180.4 399.83 383.07 250.74 281.74 399.83 180.4"/>
+      <polygon id="tri_1" class="cls-2" points="250.74 180.4 250.74 383.07 101.64 281.74 250.74 180.4"/>
+    </g>
+  </g>
+</svg>

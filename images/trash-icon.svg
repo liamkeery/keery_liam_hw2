@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke-width: 19px;
+      }
+
+      .cls-3 {
+        fill: #5e5e5e;
+      }
+
+      .cls-4 {
+        stroke-width: 15.51px;
+      }
+    </style>
+  </defs>
+  <title>trash-icon</title>
+  <g id="circle_3">
+    <g id="outer_circle_3">
+      <circle id="ellipse_3" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="garbage_can">
+    <rect id="can" class="cls-2" x="173.74" y="182.21" width="215.99" height="260.99" rx="20" ry="20"/>
+    <line id="accent_2" class="cls-2" x1="216.7" y1="215.21" x2="216.7" y2="407.2"/>
+    <line id="accent_1" class="cls-2" x1="281.74" y1="215.21" x2="281.74" y2="407.2"/>
+    <line id="accent" class="cls-2" x1="347.19" y1="216.71" x2="347.19" y2="408.7"/>
+    <rect id="lid" class="cls-3" x="173.74" y="138.71" width="215.99" height="24" rx="12" ry="12"/>
+    <path id="handle" class="cls-4" d="M538.87,357c0-19.76-17.44-35.74-39-35.74s-38.75,16-38.75,35.74" transform="translate(-218.26 -218.26)"/>
+  </g>
+</svg>

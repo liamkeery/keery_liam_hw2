@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #5e5e5e;
+      }
+    </style>
+  </defs>
+  <title>info-icon</title>
+  <g id="circle_8">
+    <g id="outer_circle_8">
+      <circle id="ellipse_8" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="i_icon">
+    <rect id="bottom" class="cls-2" x="214.24" y="406.98" width="136.49" height="36"/>
+    <rect id="top" class="cls-2" x="212.74" y="195.49" width="49.5" height="28.5"/>
+    <rect id="dot" class="cls-2" x="253.24" y="107.49" width="58.5" height="58.5"/>
+    <rect id="shaft" class="cls-2" x="253.24" y="195.49" width="58.5" height="211.49"/>
+  </g>
+</svg>

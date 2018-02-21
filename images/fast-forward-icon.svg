@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #5e5e5e;
+      }
+    </style>
+  </defs>
+  <title>fast-forward-icon</title>
+  <g id="circle_2">
+    <g id="outer_circle_2">
+      <circle id="ellipse_2" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="fast_forward_icon">
+    <g id="triangles_1">
+      <polygon id="triangle_3" class="cls-2" points="155.64 180.4 155.64 383.07 304.74 281.74 155.64 180.4"/>
+      <polygon id="triangle_2" class="cls-2" points="304.74 180.4 304.74 383.07 453.83 281.74 304.74 180.4"/>
+    </g>
+  </g>
+</svg>

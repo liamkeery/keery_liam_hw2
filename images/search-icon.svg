@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #5e5e5e;
+      }
+
+      .cls-3 {
+        stroke-width: 25px;
+      }
+
+      .cls-4 {
+        stroke-width: 15.77px;
+      }
+    </style>
+  </defs>
+  <title>search-icon</title>
+  <g id="circle_6">
+    <g id="outer_circle_6">
+      <circle id="ellipse_6" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="search_icon">
+    <rect id="handle_1" class="cls-2" x="448.68" y="556.25" width="251.14" height="41.03" rx="19.12" ry="19.12" transform="translate(357.76 -455.38) rotate(45)"/>
+    <ellipse id="outer_glass" class="cls-3" cx="214.12" cy="211.65" rx="93.75" ry="88.5"/>
+    <ellipse id="inner_glass" class="cls-4" cx="214.12" cy="211.65" rx="59.13" ry="55.81"/>
+  </g>
+</svg>

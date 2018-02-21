@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke-width: 25px;
+      }
+    </style>
+  </defs>
+  <title>star-icon</title>
+  <g id="circle_4">
+    <g id="outer_circle_4">
+      <circle id="ellipse_4" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="star">
+    <polygon id="polygon_1" class="cls-2" points="281.74 105.72 333.47 210.53 449.14 227.34 365.44 308.93 385.2 424.14 281.74 369.75 178.27 424.14 198.03 308.93 114.33 227.34 230 210.53 281.74 105.72"/>
+  </g>
+</svg>

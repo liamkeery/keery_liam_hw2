@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #5e5e5e;
+      }
+    </style>
+  </defs>
+  <title>add-icon</title>
+  <g id="circle_7">
+    <g id="outer_circle_7">
+      <circle id="ellipse_7" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+    </g>
+  </g>
+  <g id="add_icon">
+    <rect id="rectangle_vert" class="cls-2" x="250.24" y="119.74" width="63" height="323.98"/>
+    <rect id="rectangle_hor" class="cls-2" x="468.5" y="338.01" width="63" height="323.98" transform="translate(781.74 -218.26) rotate(90)"/>
+  </g>
+</svg>

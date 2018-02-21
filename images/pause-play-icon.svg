@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.47 563.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5e5e5e;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #5e5e5e;
+      }
+    </style>
+  </defs>
+  <title>pause-play-icon</title>
+  <g id="circle_5">
+    <circle id="ellipse_5" class="cls-1" cx="281.74" cy="281.74" r="276.74"/>
+  </g>
+  <g id="play_pause_icon">
+    <g id="pause_play">
+      <polygon id="play" class="cls-2" points="91.07 180.4 91.07 383.07 291.07 281.74 91.07 180.4"/>
+      <g id="pause">
+        <rect id="rectangle_2" class="cls-2" x="333.74" y="180.4" width="48" height="202.67" rx="20" ry="20"/>
+        <rect id="rectangle_1" class="cls-2" x="424.4" y="180.4" width="48" height="202.67" rx="20" ry="20"/>
+      </g>
+    </g>
+  </g>
+</svg>
